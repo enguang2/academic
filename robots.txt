@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tansongchen.com/academic/sitemap.xml
